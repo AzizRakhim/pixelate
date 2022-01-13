@@ -216,3 +216,7 @@ body{
 .item:hover .blur{
     background-color: rgba(0, 0, 0, 0.671);
 }
+
+a{
+    text-decoration: none;
+}
